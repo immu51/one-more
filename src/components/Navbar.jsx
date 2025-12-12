@@ -87,7 +87,7 @@ const Navbar = () => {
               onClick={handleContactClick}
               className="text-gray-700 hover:text-primary-600 font-medium transition-colors"
             >
-              Contact
+              phone
             </button>
 
             {/* Auth Links */}
