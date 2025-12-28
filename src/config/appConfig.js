@@ -1,11 +1,11 @@
 
 export const appConfig = {
   // Website Information
-  appName: import.meta.env.VITE_APP_NAME || 'BidMaster',
+  appName: import.meta.env.VITE_APP_NAME || 'ElectroHub',
   appDescription: import.meta.env.VITE_APP_DESCRIPTION || 'Your trusted platform for online bidding and direct purchases.',
   
   // Owner/Company Information
-  ownerName: import.meta.env.VITE_OWNER_NAME || 'BidMaster Team',
+  ownerName: import.meta.env.VITE_OWNER_NAME || 'ElectroHub',
   ownerEmail: import.meta.env.VITE_OWNER_EMAIL || 'support@bidmaster.com',
   ownerPhone: import.meta.env.VITE_OWNER_PHONE || '8279946669',
   ownerAddress: import.meta.env.VITE_OWNER_ADDRESS || '123 Auction St, City, State 12345',
