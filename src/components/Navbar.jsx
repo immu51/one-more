@@ -1,7 +1,3 @@
-/**
- * Navbar component
- * Sticky navigation bar with logo and menu links
- */
 
 import { useState } from 'react';
 import { motion } from 'framer-motion';
